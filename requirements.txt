@@ -4,3 +4,4 @@ pandas_datareader
 yfinance
 plotly
 numpy
+distutils
