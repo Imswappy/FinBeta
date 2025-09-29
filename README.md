@@ -78,13 +78,9 @@ This links **systematic risk ($\beta$)** with **expected return**, forming the b
 ---
 
 ## Project Structure 📂
-CAPM-Project/
-├── capm_functions.py # Helper functions (returns, beta, plotting)
-├── CAPM_Return.py # Main Streamlit app (multi-stock analysis)
-├── pages/
-│ └── Calculate_Beta.py # Streamlit subpage (single-stock beta)
-└── .streamlit/
-└── config.toml # Dark mode theme config
+
+<img width="752" height="304" alt="image" src="https://github.com/user-attachments/assets/5de590f7-74d7-4798-911b-1c514a6c1026" />
+
 
 
 ---
