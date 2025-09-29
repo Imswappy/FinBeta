@@ -92,10 +92,12 @@ CAPM-Project/
 ## Screenshots 🖼️
 
 ### Multi-Stock Analysis
-![Multi-stock](a34a6495-a804-42aa-879f-264835dd8197.png)
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/f49cf08b-f34d-423c-aec5-3ac8f1ea45f2" />
+
 
 ### Single Stock Beta
-![Single-stock](5d64cd74-bf9f-4507-be6b-55ffd26158ce.png)
+<img width="1919" height="607" alt="image" src="https://github.com/user-attachments/assets/d5a8747b-5f63-4e8c-8033-b524fadaeddf" />
+
 
 This project is live at:
 
